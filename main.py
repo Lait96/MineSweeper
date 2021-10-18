@@ -1,4 +1,4 @@
-from tkinter_module import MineSweeper
+from TkinterCode import MineSweeper
 
 
 if __name__ == '__main__':
